@@ -1,4 +1,2 @@
 hi 
-hello
-today is monday
 
